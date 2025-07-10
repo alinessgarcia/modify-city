@@ -13,9 +13,9 @@ export default function Home() {
           🚧 Em breve, vamos permitir que usuários adicionem:
         </p>
         <ul className="list-disc list-inside ml-4 space-y-1">
-          <li>🌳 Arborismo</li>
-          <li>🎨 Pintura de muros</li>
-          <li>🛣️ Reformas em ruas</li>
+          <li className="font-bold">🌳 Arborismo</li>
+          <li className="font-bold">🎨 Pintura de muros</li>
+          <li className="font-bold">🛣️ Reformas em ruas</li>
         </ul>
       </div>
     </main>
